@@ -1,0 +1,6 @@
+>ng new exp2
+>cd exp2/src/app
+>ng g c form
+
+Form.component.html
+
